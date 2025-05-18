@@ -65,5 +65,24 @@ body {
   margin-top: 50px;
 }
 .col i {
-  font-size: 36px;
+  font-size: 40px;
+  margin-right: -05px;
+}
+.humidity {
+  font-size: 20px;
+  font-weight: 600;
+}
+.wind {
+  font-size: 20px;
+  font-weight: 600;
+}
+.weather {
+  display: none;
+}
+.error {
+  text-align: left;
+  margin-left: 10px;
+  font-size: 15px;
+  margin-top: 10px;
+  display: none;
 }
